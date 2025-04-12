@@ -3,7 +3,7 @@
 <suite name="MakeMyTripHotelBookingSuite">
     <test name="HotelBookingTests">
         <classes>
-            <class name="tests.HotelBookingTests"/>
+            <class name="tests.HotelBookingTest"/>
         </classes>
     </test>
 </suite>
