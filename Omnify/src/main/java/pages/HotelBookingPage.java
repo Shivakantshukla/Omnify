@@ -103,6 +103,7 @@ public class HotelBookingPage extends BasePage {
         }catch (NoSuchElementException e) {
             return false;
         }
+
     }
 
 

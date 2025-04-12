@@ -39,6 +39,7 @@ public class HotelBookingTest {
         // Simulate coupon applied check
         boolean discountApplied = bookingPage.verifyDiscountApplied();
         Assert.assertTrue(discountApplied, "Sorry! Promocode used is not applicable at the moment.");
+
     }
 
 
